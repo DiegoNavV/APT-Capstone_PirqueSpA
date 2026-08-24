@@ -1,6 +1,6 @@
 # Guía de Git y GitHub para el equipo
 
-Esta guía explica cómo trabajar con el repositorio de ReclutApp sin
+Esta guía explica cómo trabajar con el repositorio de APT-Capstone_PirqueSpA sin
 experiencia previa en Git ni en GitHub. Cubre las dos formas de hacerlo:
 
 - **GitHub Desktop**: programa con ventanas y botones, no requiere
