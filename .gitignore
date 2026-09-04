@@ -1,0 +1,9 @@
+# Claude Code — configuración y notas de proyecto, solo locales.
+# No debe llegar nunca al remoto de GitHub.
+.claude/
+CLAUDE.md
+.mcp.json
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db

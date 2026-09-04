@@ -1,6 +1,6 @@
 # Guía de Git y GitHub para el equipo
 
-Esta guía explica cómo trabajar con el repositorio de APT-Capstone_PirqueSpA sin
+Esta guía explica cómo trabajar con el repositorio de APT-Capstone_EasyOffice sin
 experiencia previa en Git ni en GitHub. Cubre las dos formas de hacerlo:
 
 - **GitHub Desktop**: programa con ventanas y botones, no requiere
@@ -37,7 +37,7 @@ comando equivalente, para poder saltar directo a la que se esté usando.
 ## 1. Conceptos básicos
 
 - **Repositorio (repo)**: la carpeta del proyecto con todo su historial
-  de cambios. `APT-Capstone_PirqueSpA` es el repo.
+  de cambios. `APT-Capstone_EasyOffice` es el repo.
 - **Commit**: una "foto" guardada de los cambios hechos, con un mensaje
   que explica qué se cambió y por qué.
 - **Rama (branch)**: una copia paralela del código para trabajar sin
@@ -100,15 +100,15 @@ historial) a la computadora. Se hace **una sola vez** por computadora.
 ### GitHub Desktop
 
 1. Menú **File → Clone Repository**.
-2. Pestaña "GitHub.com", buscar `DiegoNavV/APT-Capstone_PirqueSpA` en la lista (o
+2. Pestaña "GitHub.com", buscar `DiegoNavV/APT-Capstone_EasyOffice` en la lista (o
    pegar la URL en la pestaña "URL").
 3. Elegir en qué carpeta local guardarlo y hacer clic en **Clone**.
 
 ### Línea de comandos
 
 ```bash
-git clone https://github.com/DiegoNavV/APT-Capstone_PirqueSpA.git
-cd APT-Capstone_PirqueSpA
+git clone https://github.com/DiegoNavV/APT-Capstone_EasyOffice.git
+cd APT-Capstone_EasyOffice
 ```
 
 ---
@@ -242,7 +242,7 @@ Request (PR). Esto se hace siempre desde la página de GitHub, no desde
 GitHub Desktop ni la terminal (aunque ambos ofrecen un atajo para
 abrir el navegador directo en esta pantalla).
 
-1. Ir a `https://github.com/DiegoNavV/APT-Capstone_PirqueSpA`.
+1. Ir a `https://github.com/DiegoNavV/APT-Capstone_EasyOffice`.
 2. Si se subió una rama hace poco, suele aparecer un cartel amarillo
    arriba: **"Compare & pull request"** — hacer clic ahí. Si no
    aparece, ir a la pestaña **Pull requests** → **New pull request** y
@@ -320,7 +320,7 @@ el trabajo de alguien por elegir mal una versión.
 
 ## 12. Navegar la página de GitHub
 
-Con el repo abierto en `https://github.com/DiegoNavV/APT-Capstone_PirqueSpA`:
+Con el repo abierto en `https://github.com/DiegoNavV/APT-Capstone_EasyOffice`:
 
 - **Pestaña "Code"** (la que aparece por defecto): lista de archivos y
   carpetas del repo, tal como está en la rama seleccionada. El
@@ -341,7 +341,7 @@ Con el repo abierto en `https://github.com/DiegoNavV/APT-Capstone_PirqueSpA`:
   muy chico) y un ícono de historial (reloj) para ver solo los cambios
   de ese archivo.
 - **Comparar dos ramas o dos commits**: agregar `/compare` a la URL
-  del repo (`https://github.com/DiegoNavV/APT-Capstone_PirqueSpA/compare`) y elegir
+  del repo (`https://github.com/DiegoNavV/APT-Capstone_EasyOffice/compare`) y elegir
   qué comparar contra qué.
 - **Notificaciones**: campanita arriba a la derecha de cualquier
   página de GitHub — avisa de comentarios en PR propios, menciones,
